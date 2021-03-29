@@ -1,4 +1,4 @@
-# HelloWorld Repo
+# HelloWorld Repository
 Test repository with some files and code.
 
 ![Headshot](pic_07102017_2b-200xx150.jpg)
